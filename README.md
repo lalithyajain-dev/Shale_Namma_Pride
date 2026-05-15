@@ -170,11 +170,7 @@ Government schools, especially in rural areas, often face communication gaps bet
 
 ## 👨‍💻 Developed By
 
-**[Your Name]**  
-Engineering Internship Project
+**Lalithya N Jain **  
+MindMatrix Ed internship Project 
 
 ---
-
-## 📄 License
-
-This project is developed for **educational and internship purposes**.
