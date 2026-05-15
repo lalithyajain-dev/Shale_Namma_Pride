@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "108726001177",
+    "firebase_url": "https://shalenammapride-cb30c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shalenammapride-cb30c",
+    "storage_bucket": "shalenammapride-cb30c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108726001177:android:81f3a95a84b1bfab45d488",
+        "android_client_info": {
+          "package_name": "com.example.shalenammapride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0L4UFfuFwk_INIkYoOLtCBhHkX9sMRWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
